@@ -1,0 +1,31 @@
+Base_ID,Base_Name,Region,Latitude,Longitude,Personnel,Mission_Type
+B001,Alpha Base,Central,23.2494,69.3206,4060,Disaster Relief
+B002,Bravo Base,North,15.4245,83.1469,908,Training
+B003,Charlie Base,East,34.6757,70.1945,1706,Reconnaissance
+B004,Delta Base,East,24.4774,79.483,4322,Logistics
+B005,Echo Base,East,19.7449,86.5009,2859,Logistics
+B006,Foxtrot Base,West,8.1518,82.0617,4340,Logistics
+B007,Golf Base,Central,17.61,86.443,4143,Reconnaissance
+B008,Hotel Base,East,11.6301,70.2762,4091,Training
+B009,India Base,South,34.2655,85.4684,4127,Training
+B010,Juliet Base,North,32.225,92.5979,4688,Border Security
+B011,Kilo Base,Central,24.0826,70.5445,4222,Reconnaissance
+B012,Lima Base,South,18.7365,72.1313,715,Logistics
+B013,Mike Base,South,21.7308,70.1375,3692,Border Security
+B014,November Base,Central,15.5935,89.3441,3161,Logistics
+B015,Oscar Base,South,17.2569,77.3247,2912,Training
+B016,Papa Base,West,33.5556,87.1651,957,Training
+B017,Quebec Base,East,34.0573,96.2744,3911,Logistics
+B018,Romeo Base,East,21.4699,86.4155,1087,Disaster Relief
+B019,Sierra Base,Central,15.6277,91.9254,2734,Training
+B020,Tango Base,East,25.3565,90.1248,4900,Logistics
+B021,Uniform Base,South,23.9797,94.3273,4959,Logistics
+B022,Victor Base,Central,8.6413,71.8096,1273,Disaster Relief
+B023,Whiskey Base,North,32.0899,70.8605,3933,Logistics
+B024,X-ray Base,East,16.3179,78.9591,3673,Border Security
+B025,Yankee Base,West,17.0374,90.0061,2179,Disaster Relief
+B026,Zulu Base,South,15.807,94.2876,2937,Reconnaissance
+B027,Falcon Base,West,18.991,90.7081,3057,Training
+B028,Eagle Base,West,23.7451,81.5327,3244,Border Security
+B029,Tiger Base,South,19.234,82.2884,4589,Logistics
+B030,Lion Base,East,14.8024,96.6908,1677,Logistics
