@@ -1,0 +1,301 @@
+Supplier_ID,Supplier_Name,City,Equipment_Category,Years_Experience,Annual_Contract_Value_INR,Average_Delivery_Days,Quality_Rating,On_Time_Delivery_Percentage
+SUP0001,Skyline Technologies 1,Chennai,Vehicles,38,111837346.0,23,4.5,90.0
+SUP0002,Bravo Engineering 2,Chennai,Drones,24,433487221.85,19,3.2,92.4
+SUP0003,Prime Defense Systems 3,Bengaluru,Engineering Equipment,34,111913403.98,23,3.0,86.8
+SUP0004,Pioneer Equipment 4,Kolkata,Vehicles,23,470330380.11,29,3.5,91.3
+SUP0005,Alpha Logistics 5,Lucknow,Engineering Equipment,16,219565750.72,23,3.5,86.9
+SUP0006,Skyline Technologies 6,Kolkata,Communication,37,425108340.55,30,4.6,77.2
+SUP0007,Frontier Logistics 7,Delhi,Vehicles,18,237277626.01,10,3.8,85.4
+SUP0008,Dynamic Systems 8,Delhi,Drones,25,184272922.8,27,4.2,98.1
+SUP0009,Frontier Logistics 9,Bengaluru,Radar Systems,26,285841151.28,5,3.7,92.3
+SUP0010,Skyline Technologies 10,Hyderabad,Drones,18,25982874.31,18,4.3,92.0
+SUP0011,National Engineering 11,Hyderabad,Vehicles,25,257860224.31,9,4.7,79.8
+SUP0012,Skyline Technologies 12,Chennai,Medical Equipment,36,248803319.26,23,4.2,93.6
+SUP0013,Prime Defense Systems 13,Ahmedabad,Communication,7,439212583.67,18,4.5,94.5
+SUP0014,Dynamic Systems 14,Ahmedabad,Vehicles,35,232201041.86,13,3.6,83.7
+SUP0015,Delta Industrial Solutions 15,Pune,Electronics,22,64442624.64,24,4.3,99.8
+SUP0016,Bravo Engineering 16,Ahmedabad,Electronics,38,367001863.76,17,3.9,92.3
+SUP0017,Titan Manufacturing 17,Pune,Drones,28,121622533.52,3,3.1,98.2
+SUP0018,Bravo Engineering 18,Ahmedabad,Generators,15,370739168.49,22,4.2,80.2
+SUP0019,National Engineering 19,Mumbai,Medical Equipment,12,332584281.93,7,3.3,98.7
+SUP0020,Pioneer Equipment 20,Kolkata,Electronics,25,224052103.72,26,3.9,95.4
+SUP0021,Frontier Logistics 21,Pune,Engineering Equipment,28,13210771.95,14,3.4,90.0
+SUP0022,Pioneer Equipment 22,Chennai,Communication,39,347566974.39,20,3.1,79.3
+SUP0023,Pioneer Equipment 23,Pune,Vehicles,20,211749712.41,17,3.6,90.2
+SUP0024,Frontier Logistics 24,Jaipur,Generators,37,49384383.11,2,3.8,97.6
+SUP0025,Vertex Industries 25,Jaipur,Drones,16,382707756.38,13,4.1,98.5
+SUP0026,Pioneer Equipment 26,Lucknow,Electronics,13,234798241.48,4,4.4,87.7
+SUP0027,Delta Industrial Solutions 27,Lucknow,Electronics,19,61626292.2,3,4.4,93.6
+SUP0028,Bravo Engineering 28,Ahmedabad,Engineering Equipment,38,216084362.23,19,3.0,97.0
+SUP0029,Prime Defense Systems 29,Delhi,Electronics,8,469777773.68,17,3.8,96.2
+SUP0030,Prime Defense Systems 30,Jaipur,Engineering Equipment,38,26076531.79,23,4.3,81.4
+SUP0031,Alpha Logistics 31,Ahmedabad,Electronics,21,68890809.92,15,4.1,91.9
+SUP0032,Titan Manufacturing 32,Bengaluru,Vehicles,33,51229090.04,19,3.5,98.1
+SUP0033,Summit Industrial 33,Delhi,Radar Systems,17,42678154.77,3,4.0,96.2
+SUP0034,Precision Engineering 34,Chennai,Engineering Equipment,6,350369297.89,5,3.2,83.0
+SUP0035,Dynamic Systems 35,Delhi,Electronics,23,27086111.52,8,3.5,92.8
+SUP0036,Eagle Technologies 36,Delhi,Communication,32,419292902.02,27,4.7,92.0
+SUP0037,Dynamic Systems 37,Kolkata,Radar Systems,36,292602540.17,30,3.3,88.2
+SUP0038,Titan Manufacturing 38,Hyderabad,Electronics,14,287247019.2,29,3.8,87.7
+SUP0039,Skyline Technologies 39,Chennai,Medical Equipment,22,451603776.97,5,4.0,75.0
+SUP0040,Precision Engineering 40,Ahmedabad,Medical Equipment,16,271436970.33,24,4.2,76.5
+SUP0041,Summit Industrial 41,Delhi,Drones,35,443763323.57,16,4.0,76.7
+SUP0042,Dynamic Systems 42,Pune,Radar Systems,11,83247401.03,25,3.3,78.2
+SUP0043,Pioneer Equipment 43,Chennai,Drones,10,293719644.2,27,3.1,85.1
+SUP0044,Frontier Logistics 44,Delhi,Radar Systems,17,369255590.25,20,3.6,92.7
+SUP0045,Vertex Industries 45,Pune,Medical Equipment,8,248156410.28,20,4.3,77.6
+SUP0046,Eagle Technologies 46,Lucknow,Engineering Equipment,35,373952803.79,21,3.1,83.5
+SUP0047,Pioneer Equipment 47,Chennai,Communication,7,67607806.87,2,3.6,86.6
+SUP0048,Eagle Technologies 48,Ahmedabad,Medical Equipment,17,168306736.77,10,4.6,76.2
+SUP0049,Alpha Logistics 49,Jaipur,Communication,21,140181247.75,13,4.0,77.0
+SUP0050,Skyline Technologies 50,Hyderabad,Drones,34,382144715.98,25,4.6,83.1
+SUP0051,Skyline Technologies 51,Ahmedabad,Generators,15,97407325.85,2,3.5,88.1
+SUP0052,Delta Industrial Solutions 52,Kolkata,Electronics,7,267283992.61,14,4.0,94.8
+SUP0053,Prime Defense Systems 53,Bengaluru,Electronics,23,352324314.17,25,3.6,88.7
+SUP0054,Precision Engineering 54,Lucknow,Communication,11,383667156.95,3,3.6,80.1
+SUP0055,Titan Manufacturing 55,Ahmedabad,Engineering Equipment,34,64981023.48,25,4.0,89.9
+SUP0056,Summit Industrial 56,Hyderabad,Medical Equipment,6,307295386.85,8,4.1,80.8
+SUP0057,Eagle Technologies 57,Ahmedabad,Generators,8,239092407.43,9,4.8,89.4
+SUP0058,National Engineering 58,Chennai,Generators,19,121709640.81,19,3.9,99.6
+SUP0059,Alpha Logistics 59,Ahmedabad,Communication,28,123143182.45,29,4.9,87.4
+SUP0060,Precision Engineering 60,Kolkata,Radar Systems,18,182263704.68,2,4.5,81.1
+SUP0061,Bravo Engineering 61,Bengaluru,Communication,5,240909938.96,21,3.5,76.6
+SUP0062,National Engineering 62,Chennai,Radar Systems,26,204546606.31,21,3.0,82.5
+SUP0063,Frontier Logistics 63,Jaipur,Generators,22,115610382.98,14,3.8,93.5
+SUP0064,Pioneer Equipment 64,Jaipur,Radar Systems,35,229705999.45,9,3.5,83.6
+SUP0065,Alpha Logistics 65,Delhi,Engineering Equipment,30,73598281.1,4,3.5,91.9
+SUP0066,Pioneer Equipment 66,Jaipur,Electronics,12,337663560.41,15,3.9,97.7
+SUP0067,Titan Manufacturing 67,Bengaluru,Engineering Equipment,20,248572108.26,10,3.9,82.7
+SUP0068,Dynamic Systems 68,Ahmedabad,Drones,17,84763551.17,19,3.2,85.7
+SUP0069,Prime Defense Systems 69,Hyderabad,Radar Systems,22,448668841.23,11,3.2,85.8
+SUP0070,Skyline Technologies 70,Bengaluru,Vehicles,31,403473343.37,21,4.8,96.1
+SUP0071,Falcon Manufacturing 71,Mumbai,Drones,35,487431138.31,28,4.2,89.9
+SUP0072,Titan Manufacturing 72,Mumbai,Generators,11,293085525.7,19,4.7,83.7
+SUP0073,Precision Engineering 73,Jaipur,Communication,32,301705098.6,23,4.0,88.3
+SUP0074,National Engineering 74,Ahmedabad,Vehicles,33,156009341.02,6,3.5,76.5
+SUP0075,Skyline Technologies 75,Lucknow,Generators,33,158573115.9,23,4.6,96.6
+SUP0076,Delta Industrial Solutions 76,Bengaluru,Drones,18,58696088.16,19,4.1,98.7
+SUP0077,Titan Manufacturing 77,Ahmedabad,Drones,17,498797451.44,23,4.0,84.7
+SUP0078,Alpha Logistics 78,Kolkata,Generators,34,114156136.43,21,3.7,88.2
+SUP0079,Pioneer Equipment 79,Delhi,Generators,37,228174996.41,10,3.2,98.9
+SUP0080,Precision Engineering 80,Ahmedabad,Communication,8,357964973.42,7,3.8,88.9
+SUP0081,Prime Defense Systems 81,Mumbai,Communication,12,28262478.31,17,3.3,86.0
+SUP0082,Vertex Industries 82,Mumbai,Radar Systems,36,206629168.48,29,4.4,95.3
+SUP0083,National Engineering 83,Hyderabad,Electronics,21,47695159.93,22,5.0,85.3
+SUP0084,Bravo Engineering 84,Delhi,Medical Equipment,31,408400745.25,21,4.1,83.3
+SUP0085,Precision Engineering 85,Jaipur,Electronics,22,121137792.28,15,4.2,80.4
+SUP0086,Skyline Technologies 86,Bengaluru,Communication,34,336493783.62,16,3.6,76.5
+SUP0087,Dynamic Systems 87,Hyderabad,Radar Systems,37,279758147.72,5,4.2,76.0
+SUP0088,Summit Industrial 88,Delhi,Radar Systems,17,355308576.66,21,3.5,80.2
+SUP0089,Precision Engineering 89,Kolkata,Vehicles,13,384799521.71,13,3.3,97.6
+SUP0090,Vertex Industries 90,Chennai,Vehicles,26,371853437.85,25,3.9,76.6
+SUP0091,Delta Industrial Solutions 91,Chennai,Generators,11,111794940.33,30,4.2,78.7
+SUP0092,Dynamic Systems 92,Kolkata,Drones,14,338001395.84,15,3.4,83.9
+SUP0093,Summit Industrial 93,Bengaluru,Electronics,22,367748874.48,22,4.5,88.4
+SUP0094,Dynamic Systems 94,Jaipur,Engineering Equipment,15,279655822.83,28,3.2,95.6
+SUP0095,Alpha Logistics 95,Ahmedabad,Medical Equipment,17,260366234.36,22,4.6,90.6
+SUP0096,Delta Industrial Solutions 96,Delhi,Engineering Equipment,16,278696860.55,7,4.8,85.3
+SUP0097,Falcon Manufacturing 97,Hyderabad,Communication,22,174043401.02,13,3.9,77.2
+SUP0098,Skyline Technologies 98,Jaipur,Electronics,38,78047775.09,24,4.1,84.4
+SUP0099,National Engineering 99,Ahmedabad,Medical Equipment,15,327489828.26,15,4.2,84.0
+SUP0100,Bravo Engineering 100,Delhi,Vehicles,21,297046508.04,25,3.2,79.4
+SUP0101,Delta Industrial Solutions 101,Pune,Medical Equipment,39,124233135.65,8,4.4,82.7
+SUP0102,Dynamic Systems 102,Lucknow,Drones,21,477771253.42,3,4.6,94.3
+SUP0103,Alpha Logistics 103,Chennai,Vehicles,34,13296685.83,15,3.2,78.5
+SUP0104,Eagle Technologies 104,Lucknow,Electronics,16,349483836.93,17,4.8,89.4
+SUP0105,Pioneer Equipment 105,Bengaluru,Drones,30,415736210.0,26,3.8,78.4
+SUP0106,Eagle Technologies 106,Mumbai,Electronics,36,13969099.35,20,3.9,83.4
+SUP0107,National Engineering 107,Ahmedabad,Vehicles,31,409448333.22,20,4.3,81.3
+SUP0108,Delta Industrial Solutions 108,Mumbai,Vehicles,11,434974429.7,14,3.2,95.8
+SUP0109,Eagle Technologies 109,Chennai,Electronics,35,433547607.13,17,4.6,76.0
+SUP0110,Alpha Logistics 110,Lucknow,Radar Systems,9,73173785.78,7,4.5,81.0
+SUP0111,Delta Industrial Solutions 111,Chennai,Generators,14,206617625.3,6,5.0,87.2
+SUP0112,Titan Manufacturing 112,Bengaluru,Communication,33,105120470.34,16,3.2,94.2
+SUP0113,Delta Industrial Solutions 113,Lucknow,Vehicles,37,286361556.85,21,4.9,90.6
+SUP0114,Precision Engineering 114,Ahmedabad,Vehicles,27,404569979.86,21,3.9,86.1
+SUP0115,Bravo Engineering 115,Jaipur,Vehicles,10,5071555.07,28,3.1,96.9
+SUP0116,Alpha Logistics 116,Mumbai,Radar Systems,26,241157423.86,6,4.2,83.2
+SUP0117,Pioneer Equipment 117,Mumbai,Vehicles,19,384539638.74,9,3.5,89.1
+SUP0118,Bravo Engineering 118,Hyderabad,Medical Equipment,6,60471226.8,11,3.8,94.8
+SUP0119,Falcon Manufacturing 119,Ahmedabad,Radar Systems,15,188337560.04,19,3.1,85.2
+SUP0120,Vertex Industries 120,Kolkata,Vehicles,22,344077999.45,29,3.2,86.1
+SUP0121,Delta Industrial Solutions 121,Chennai,Generators,23,242278611.57,6,4.1,94.8
+SUP0122,Frontier Logistics 122,Kolkata,Medical Equipment,9,193650639.96,7,4.1,99.7
+SUP0123,Vertex Industries 123,Chennai,Electronics,15,27355297.64,8,3.7,82.2
+SUP0124,Bravo Engineering 124,Kolkata,Drones,27,255829952.66,29,3.4,98.4
+SUP0125,National Engineering 125,Bengaluru,Communication,40,270793113.43,25,4.5,82.9
+SUP0126,Pioneer Equipment 126,Chennai,Drones,9,426747923.32,14,4.4,93.2
+SUP0127,Titan Manufacturing 127,Hyderabad,Communication,26,349251205.03,30,3.9,89.7
+SUP0128,National Engineering 128,Pune,Electronics,33,354277416.33,10,4.7,84.9
+SUP0129,Precision Engineering 129,Lucknow,Radar Systems,25,388462197.37,20,3.5,90.2
+SUP0130,Frontier Logistics 130,Bengaluru,Engineering Equipment,40,231933044.98,28,4.3,81.5
+SUP0131,Precision Engineering 131,Delhi,Radar Systems,6,413795883.58,8,4.1,98.5
+SUP0132,Alpha Logistics 132,Ahmedabad,Medical Equipment,32,447907819.42,26,4.6,94.3
+SUP0133,Frontier Logistics 133,Pune,Radar Systems,38,31011059.84,4,4.0,88.4
+SUP0134,Frontier Logistics 134,Chennai,Generators,21,90674841.52,24,3.3,93.2
+SUP0135,Titan Manufacturing 135,Chennai,Drones,24,217339777.09,4,4.0,86.8
+SUP0136,Alpha Logistics 136,Chennai,Generators,39,327337714.22,5,3.3,84.1
+SUP0137,Dynamic Systems 137,Mumbai,Medical Equipment,20,71265670.13,3,4.8,86.4
+SUP0138,Eagle Technologies 138,Kolkata,Drones,24,444565182.21,17,4.4,78.2
+SUP0139,Eagle Technologies 139,Pune,Communication,29,291520901.29,9,4.4,90.1
+SUP0140,Delta Industrial Solutions 140,Ahmedabad,Communication,26,346625244.81,10,4.4,92.9
+SUP0141,National Engineering 141,Chennai,Drones,36,185694975.57,27,3.6,81.2
+SUP0142,Skyline Technologies 142,Jaipur,Communication,29,377597959.55,30,3.3,88.8
+SUP0143,Prime Defense Systems 143,Ahmedabad,Generators,9,236473583.39,5,4.4,87.9
+SUP0144,Summit Industrial 144,Jaipur,Engineering Equipment,12,82921099.83,16,3.2,87.2
+SUP0145,Summit Industrial 145,Bengaluru,Vehicles,37,130089387.38,17,3.5,78.9
+SUP0146,Alpha Logistics 146,Jaipur,Communication,34,413467182.72,7,4.7,75.1
+SUP0147,Alpha Logistics 147,Lucknow,Radar Systems,31,143212473.55,29,3.2,75.7
+SUP0148,Alpha Logistics 148,Pune,Engineering Equipment,29,292050959.48,17,3.7,94.9
+SUP0149,Frontier Logistics 149,Hyderabad,Vehicles,18,479624585.84,17,4.8,81.8
+SUP0150,Eagle Technologies 150,Kolkata,Generators,14,499048243.56,12,3.6,98.1
+SUP0151,Bravo Engineering 151,Pune,Vehicles,23,191047200.0,16,4.9,96.9
+SUP0152,Eagle Technologies 152,Jaipur,Radar Systems,6,257088137.66,5,3.3,75.2
+SUP0153,Frontier Logistics 153,Delhi,Communication,37,14005684.02,16,4.4,79.9
+SUP0154,Titan Manufacturing 154,Kolkata,Vehicles,21,299947839.08,4,3.6,87.9
+SUP0155,National Engineering 155,Hyderabad,Communication,37,231867845.5,9,4.5,98.5
+SUP0156,Eagle Technologies 156,Delhi,Electronics,35,483762331.72,9,3.9,80.7
+SUP0157,Precision Engineering 157,Hyderabad,Radar Systems,19,53601468.32,27,3.0,89.6
+SUP0158,Vertex Industries 158,Hyderabad,Generators,17,492889058.12,20,4.6,86.0
+SUP0159,Pioneer Equipment 159,Ahmedabad,Radar Systems,9,124218343.02,4,4.6,75.6
+SUP0160,Prime Defense Systems 160,Jaipur,Communication,19,327704879.9,3,4.5,81.5
+SUP0161,Delta Industrial Solutions 161,Chennai,Engineering Equipment,7,124383512.13,18,3.1,89.9
+SUP0162,Alpha Logistics 162,Ahmedabad,Radar Systems,35,55546375.96,25,3.1,75.7
+SUP0163,Dynamic Systems 163,Bengaluru,Vehicles,15,77945412.65,9,4.3,80.4
+SUP0164,Summit Industrial 164,Jaipur,Radar Systems,14,109735634.99,6,4.3,82.0
+SUP0165,Precision Engineering 165,Mumbai,Vehicles,18,175656610.1,19,3.9,96.4
+SUP0166,Eagle Technologies 166,Lucknow,Electronics,5,427570357.5,17,4.7,87.4
+SUP0167,Prime Defense Systems 167,Bengaluru,Vehicles,20,454212294.38,12,4.6,89.6
+SUP0168,Summit Industrial 168,Ahmedabad,Drones,12,286401777.26,16,5.0,79.2
+SUP0169,Vertex Industries 169,Ahmedabad,Vehicles,10,381716681.32,25,4.9,93.7
+SUP0170,Delta Industrial Solutions 170,Kolkata,Generators,17,447557155.69,2,4.8,91.1
+SUP0171,Alpha Logistics 171,Kolkata,Drones,14,336668502.17,9,4.8,90.4
+SUP0172,Dynamic Systems 172,Kolkata,Electronics,19,264237411.41,12,3.2,99.8
+SUP0173,Prime Defense Systems 173,Kolkata,Drones,39,452076357.87,3,3.6,78.7
+SUP0174,Pioneer Equipment 174,Pune,Electronics,5,428341151.18,14,3.2,78.6
+SUP0175,Summit Industrial 175,Chennai,Electronics,20,40383148.57,28,4.2,88.3
+SUP0176,Titan Manufacturing 176,Hyderabad,Engineering Equipment,18,493243470.76,29,4.4,78.8
+SUP0177,Skyline Technologies 177,Chennai,Vehicles,40,71290105.14,24,3.4,78.4
+SUP0178,Titan Manufacturing 178,Delhi,Communication,36,96418359.52,2,3.4,85.6
+SUP0179,Frontier Logistics 179,Ahmedabad,Engineering Equipment,36,195955077.43,21,4.0,92.0
+SUP0180,Eagle Technologies 180,Chennai,Medical Equipment,21,399754056.16,14,3.2,99.5
+SUP0181,Pioneer Equipment 181,Delhi,Drones,13,124207353.28,10,3.7,79.4
+SUP0182,Frontier Logistics 182,Hyderabad,Generators,28,247445135.38,12,4.5,93.9
+SUP0183,Eagle Technologies 183,Chennai,Communication,18,332107234.7,25,4.5,75.8
+SUP0184,Pioneer Equipment 184,Mumbai,Generators,28,491953904.3,24,4.1,98.8
+SUP0185,Bravo Engineering 185,Bengaluru,Electronics,7,111122918.48,22,4.2,98.7
+SUP0186,Bravo Engineering 186,Mumbai,Communication,5,408120007.71,2,3.7,76.9
+SUP0187,National Engineering 187,Chennai,Medical Equipment,13,81437409.03,7,4.0,79.0
+SUP0188,Precision Engineering 188,Lucknow,Electronics,25,388113863.3,14,3.3,91.8
+SUP0189,Titan Manufacturing 189,Hyderabad,Medical Equipment,28,418794818.76,26,3.2,89.8
+SUP0190,Dynamic Systems 190,Lucknow,Engineering Equipment,24,174876239.55,12,3.5,98.0
+SUP0191,Frontier Logistics 191,Kolkata,Communication,20,269690202.06,9,3.9,92.3
+SUP0192,Vertex Industries 192,Pune,Electronics,25,159942978.97,21,3.2,80.4
+SUP0193,Alpha Logistics 193,Ahmedabad,Communication,39,8257639.65,25,4.1,75.0
+SUP0194,Precision Engineering 194,Bengaluru,Vehicles,7,88786478.87,6,3.8,98.7
+SUP0195,Titan Manufacturing 195,Delhi,Engineering Equipment,28,45810215.41,12,3.8,94.1
+SUP0196,Alpha Logistics 196,Chennai,Vehicles,39,263031672.46,16,4.0,87.1
+SUP0197,Prime Defense Systems 197,Hyderabad,Electronics,40,402328650.61,12,3.7,84.9
+SUP0198,Frontier Logistics 198,Jaipur,Engineering Equipment,38,286584720.03,29,3.8,88.4
+SUP0199,Pioneer Equipment 199,Bengaluru,Medical Equipment,35,157750490.11,2,3.1,79.2
+SUP0200,Eagle Technologies 200,Pune,Communication,33,317549348.15,24,4.3,97.9
+SUP0201,Frontier Logistics 201,Bengaluru,Medical Equipment,18,193406295.87,3,3.1,96.8
+SUP0202,Eagle Technologies 202,Pune,Communication,39,40256977.38,14,4.6,96.7
+SUP0203,Alpha Logistics 203,Bengaluru,Generators,34,283474021.03,19,4.3,77.0
+SUP0204,Dynamic Systems 204,Delhi,Medical Equipment,12,334076817.23,11,3.8,94.3
+SUP0205,National Engineering 205,Bengaluru,Drones,33,315069843.48,10,3.9,78.0
+SUP0206,Skyline Technologies 206,Chennai,Electronics,15,189821272.2,29,3.7,97.2
+SUP0207,Bravo Engineering 207,Ahmedabad,Generators,9,142634303.3,10,3.4,81.9
+SUP0208,Precision Engineering 208,Kolkata,Communication,23,481012524.23,2,3.7,98.6
+SUP0209,Falcon Manufacturing 209,Pune,Communication,19,164280655.01,13,3.3,98.3
+SUP0210,Eagle Technologies 210,Jaipur,Radar Systems,18,122511628.39,26,3.1,83.2
+SUP0211,Delta Industrial Solutions 211,Ahmedabad,Generators,39,223584252.72,29,4.6,87.4
+SUP0212,Delta Industrial Solutions 212,Jaipur,Engineering Equipment,17,213361023.85,4,3.9,76.8
+SUP0213,Vertex Industries 213,Mumbai,Vehicles,15,392520714.0,3,3.1,77.6
+SUP0214,Prime Defense Systems 214,Mumbai,Medical Equipment,8,265857948.59,5,4.1,89.0
+SUP0215,Alpha Logistics 215,Lucknow,Drones,7,459430973.28,27,4.8,80.0
+SUP0216,Bravo Engineering 216,Hyderabad,Generators,6,445701898.41,28,4.1,86.3
+SUP0217,Titan Manufacturing 217,Chennai,Vehicles,19,455752451.11,25,5.0,94.9
+SUP0218,Frontier Logistics 218,Ahmedabad,Drones,18,160789821.68,21,4.9,76.7
+SUP0219,Vertex Industries 219,Delhi,Radar Systems,34,196798502.49,28,4.1,79.0
+SUP0220,Delta Industrial Solutions 220,Lucknow,Electronics,7,338842975.0,30,3.1,93.2
+SUP0221,Pioneer Equipment 221,Mumbai,Medical Equipment,34,456931360.66,23,3.7,94.9
+SUP0222,Skyline Technologies 222,Kolkata,Electronics,22,173527894.72,18,3.8,89.0
+SUP0223,Dynamic Systems 223,Mumbai,Communication,36,270374198.32,29,4.2,92.7
+SUP0224,Prime Defense Systems 224,Jaipur,Generators,14,209227836.82,13,5.0,75.5
+SUP0225,National Engineering 225,Delhi,Radar Systems,10,479828093.31,25,4.8,81.9
+SUP0226,Alpha Logistics 226,Kolkata,Engineering Equipment,12,132478804.23,25,4.0,77.8
+SUP0227,Summit Industrial 227,Delhi,Vehicles,19,445546590.08,10,4.6,97.1
+SUP0228,Eagle Technologies 228,Pune,Vehicles,37,462659505.88,23,3.3,79.2
+SUP0229,National Engineering 229,Delhi,Radar Systems,8,477817105.74,12,4.6,85.0
+SUP0230,Delta Industrial Solutions 230,Pune,Electronics,25,437607613.5,17,3.3,92.0
+SUP0231,Titan Manufacturing 231,Mumbai,Radar Systems,11,411664299.39,7,3.2,79.4
+SUP0232,Delta Industrial Solutions 232,Kolkata,Drones,24,122155725.58,13,3.8,80.9
+SUP0233,Delta Industrial Solutions 233,Chennai,Communication,35,130358678.12,8,3.9,96.6
+SUP0234,National Engineering 234,Jaipur,Medical Equipment,40,404739269.53,6,3.5,92.7
+SUP0235,Alpha Logistics 235,Jaipur,Electronics,36,88381081.0,23,3.8,96.8
+SUP0236,Frontier Logistics 236,Chennai,Medical Equipment,8,136817808.41,24,4.4,94.2
+SUP0237,Prime Defense Systems 237,Jaipur,Communication,9,7770921.2,17,4.6,97.2
+SUP0238,Precision Engineering 238,Hyderabad,Communication,28,113792769.65,17,4.9,97.0
+SUP0239,Prime Defense Systems 239,Pune,Radar Systems,32,143526020.39,5,4.7,77.9
+SUP0240,Alpha Logistics 240,Chennai,Engineering Equipment,21,456368842.3,11,3.7,84.1
+SUP0241,Eagle Technologies 241,Delhi,Generators,35,459031454.44,4,3.0,92.1
+SUP0242,Falcon Manufacturing 242,Mumbai,Vehicles,30,73717842.98,26,4.5,81.7
+SUP0243,Eagle Technologies 243,Kolkata,Communication,20,91184117.7,7,4.9,76.4
+SUP0244,Alpha Logistics 244,Jaipur,Electronics,5,355897920.7,28,3.3,91.5
+SUP0245,Dynamic Systems 245,Pune,Generators,34,217423475.58,3,3.7,76.2
+SUP0246,Bravo Engineering 246,Jaipur,Generators,5,316444904.85,13,4.3,86.3
+SUP0247,Titan Manufacturing 247,Delhi,Communication,25,73561550.9,5,3.8,94.3
+SUP0248,Falcon Manufacturing 248,Jaipur,Generators,7,498392720.52,28,4.1,84.9
+SUP0249,Vertex Industries 249,Mumbai,Electronics,8,279402852.64,13,4.8,93.1
+SUP0250,National Engineering 250,Mumbai,Medical Equipment,32,252875896.82,12,4.8,85.9
+SUP0251,Frontier Logistics 251,Kolkata,Radar Systems,24,30170121.17,30,4.8,81.1
+SUP0252,National Engineering 252,Bengaluru,Electronics,28,466517221.63,5,3.6,99.8
+SUP0253,Bravo Engineering 253,Lucknow,Radar Systems,5,485288844.54,17,4.9,92.3
+SUP0254,Dynamic Systems 254,Jaipur,Electronics,23,433011174.13,21,4.7,96.8
+SUP0255,Bravo Engineering 255,Delhi,Medical Equipment,23,322542844.88,5,3.0,81.6
+SUP0256,Alpha Logistics 256,Delhi,Electronics,25,122893634.42,9,3.9,93.1
+SUP0257,Titan Manufacturing 257,Hyderabad,Medical Equipment,5,206037390.17,8,4.4,84.8
+SUP0258,Alpha Logistics 258,Ahmedabad,Medical Equipment,26,105969657.19,16,4.1,79.0
+SUP0259,Titan Manufacturing 259,Hyderabad,Medical Equipment,32,118098943.42,28,3.0,87.6
+SUP0260,Precision Engineering 260,Mumbai,Generators,37,373663596.17,4,3.3,98.9
+SUP0261,Alpha Logistics 261,Hyderabad,Radar Systems,32,407390154.12,9,3.5,96.1
+SUP0262,Bravo Engineering 262,Pune,Generators,34,155090911.27,3,3.6,88.4
+SUP0263,Pioneer Equipment 263,Lucknow,Drones,17,231620236.2,17,4.2,91.2
+SUP0264,Eagle Technologies 264,Hyderabad,Radar Systems,32,53057313.05,16,3.5,82.6
+SUP0265,Skyline Technologies 265,Chennai,Electronics,9,468121187.36,12,4.1,98.4
+SUP0266,Precision Engineering 266,Hyderabad,Vehicles,39,425834222.63,21,3.8,84.7
+SUP0267,Bravo Engineering 267,Bengaluru,Communication,28,481724449.45,22,4.9,88.0
+SUP0268,Bravo Engineering 268,Chennai,Medical Equipment,13,123089012.89,18,4.0,75.4
+SUP0269,Delta Industrial Solutions 269,Jaipur,Communication,15,101954070.71,29,3.6,84.9
+SUP0270,Summit Industrial 270,Bengaluru,Drones,13,31783329.23,21,3.0,78.6
+SUP0271,Titan Manufacturing 271,Ahmedabad,Electronics,9,181062640.91,2,4.0,79.0
+SUP0272,Falcon Manufacturing 272,Kolkata,Medical Equipment,14,312951825.23,2,4.7,78.9
+SUP0273,Falcon Manufacturing 273,Ahmedabad,Communication,10,311521917.05,14,4.8,89.2
+SUP0274,Vertex Industries 274,Delhi,Electronics,32,237899966.68,11,3.4,86.1
+SUP0275,Vertex Industries 275,Mumbai,Generators,27,201043714.93,29,3.3,76.2
+SUP0276,Dynamic Systems 276,Pune,Communication,27,351560657.91,12,4.9,96.5
+SUP0277,Falcon Manufacturing 277,Delhi,Electronics,14,226507818.49,15,3.8,96.4
+SUP0278,Titan Manufacturing 278,Ahmedabad,Communication,6,381720417.62,15,4.1,87.2
+SUP0279,Titan Manufacturing 279,Lucknow,Medical Equipment,12,8615406.3,20,3.8,79.0
+SUP0280,Bravo Engineering 280,Kolkata,Radar Systems,7,146576368.91,12,4.0,77.2
+SUP0281,Alpha Logistics 281,Lucknow,Radar Systems,17,361757493.03,20,3.8,96.2
+SUP0282,Alpha Logistics 282,Bengaluru,Generators,37,105103326.74,9,3.9,80.9
+SUP0283,Vertex Industries 283,Hyderabad,Drones,28,47449671.22,16,4.5,80.4
+SUP0284,Frontier Logistics 284,Lucknow,Drones,34,234433126.32,19,4.3,77.5
+SUP0285,Vertex Industries 285,Pune,Generators,33,97317228.76,29,4.9,82.7
+SUP0286,Vertex Industries 286,Kolkata,Communication,11,434193771.52,5,3.0,79.3
+SUP0287,Falcon Manufacturing 287,Jaipur,Communication,17,54909796.82,20,3.2,94.0
+SUP0288,Prime Defense Systems 288,Jaipur,Vehicles,17,433256213.12,20,4.0,90.3
+SUP0289,Titan Manufacturing 289,Jaipur,Vehicles,22,394314219.95,22,3.7,92.8
+SUP0290,Frontier Logistics 290,Lucknow,Generators,28,165098434.71,3,3.2,80.9
+SUP0291,Dynamic Systems 291,Mumbai,Vehicles,20,462855426.53,29,3.7,93.8
+SUP0292,Dynamic Systems 292,Chennai,Drones,20,451220921.5,24,3.0,78.7
+SUP0293,Falcon Manufacturing 293,Mumbai,Medical Equipment,12,73322899.02,8,5.0,98.2
+SUP0294,Eagle Technologies 294,Mumbai,Vehicles,34,17813283.37,11,3.3,96.9
+SUP0295,Skyline Technologies 295,Jaipur,Medical Equipment,23,331968809.94,9,4.1,77.3
+SUP0296,Summit Industrial 296,Ahmedabad,Medical Equipment,20,187148157.56,24,3.5,82.5
+SUP0297,Delta Industrial Solutions 297,Kolkata,Radar Systems,7,404762779.8,12,4.6,90.8
+SUP0298,Summit Industrial 298,Pune,Medical Equipment,40,52312024.31,21,3.5,90.2
+SUP0299,Frontier Logistics 299,Kolkata,Radar Systems,34,70553212.06,2,4.0,97.8
+SUP0300,Dynamic Systems 300,Chennai,Generators,28,161871651.34,21,4.3,81.5

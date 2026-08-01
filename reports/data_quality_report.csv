@@ -1,0 +1,8 @@
+Table,Rows Before,Rows After,Duplicates Removed
+bases,30,30,0
+equipment,5000,5000,0
+inventory,100000,100000,0
+fuel_logs,120000,120000,0
+maintenance,50000,50000,0
+missions,20000,20000,0
+suppliers,300,300,0
