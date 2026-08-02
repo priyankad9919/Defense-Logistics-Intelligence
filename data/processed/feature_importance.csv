@@ -1,0 +1,16 @@
+Feature,Importance
+num__Downtime_Days,0.669477848748873
+num__Maintenance_Cost_INR,0.29210115827389205
+num__Cost_Per_Day,0.036039540548616335
+num__Equipment_Age,0.0011874415756519693
+cat__Category_Missile Launcher,0.00017672732869362205
+cat__Status_Out of Service,0.00015581185955190345
+cat__Status_Operational,0.00015474752217067885
+cat__Status_Maintenance,0.00013031546600773133
+cat__Category_Armored Vehicle,0.00010813079092035382
+cat__Category_Truck,0.00010139684926320292
+cat__Category_Generator,9.495791632687671e-05
+cat__Category_Tank,8.296296554776943e-05
+cat__Category_Communication System,7.672414676692737e-05
+cat__Category_Drone,6.942487042382872e-05
+cat__Category_Radar,4.2811137293674246e-05
